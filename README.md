@@ -3,3 +3,6 @@
 
 ### Show What You Know Video Link
 [Click Here!](https://youtu.be/HMt7Yf77qkI)
+
+### Animal Parade
+[Click Here!](https://youtu.be/18dKjxikR44)
