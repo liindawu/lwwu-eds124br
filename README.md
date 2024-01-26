@@ -13,5 +13,5 @@
 ### Week 3 Show What You Know Nested Repeats Video Link
 [Click Here!](https://youtu.be/9z-pyqaCdVk)
 
-### Week 3 Show What You Know Concept of Events
+### Week 3 Show What You Know Concept of Events Video Link
 [Click Here!](https://youtu.be/wjHV9vcB1bI)
