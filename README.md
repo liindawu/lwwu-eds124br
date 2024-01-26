@@ -9,3 +9,9 @@
 
 ### Week 2 Show What You Know Video Link
 [Click Here!](https://youtu.be/hnQLOjMDJhA)
+
+### Week 3 Show What You Know Nested Repeats Video Link
+[Click Here!](https://youtu.be/9z-pyqaCdVk)
+
+### Week 3 Show What You Know Concept of Events
+[Click Here!](https://youtu.be/wjHV9vcB1bI)
