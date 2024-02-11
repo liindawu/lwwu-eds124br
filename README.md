@@ -18,3 +18,6 @@
 
 ### Week 4 Show What You Know: Variables Video Link
 [Click Here!](https://youtu.be/SCEaFzgOSY8)
+
+### Week 5 Show What You Know: Conditional Loops Video Link
+[Click Here!](https://youtu.be/FXpCrXl5wy4)
