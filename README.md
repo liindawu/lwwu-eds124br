@@ -21,3 +21,6 @@
 
 ### Week 5 Show What You Know: Conditional Loops Video Link
 [Click Here!](https://youtu.be/FXpCrXl5wy4)
+
+### Week 6 Show What You Know: If Statements Video Link
+[Click Here!](https://youtu.be/VXUTWwdmJWA)
