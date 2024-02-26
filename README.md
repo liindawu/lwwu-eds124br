@@ -24,3 +24,6 @@
 
 ### Week 6 Show What You Know: If Statements Video Link
 [Click Here!](https://youtu.be/VXUTWwdmJWA)
+
+### Week 7 Show What You Know: Nested IF Else Video Link
+[Click Here!](https://youtu.be/fgtizSuPp58)
